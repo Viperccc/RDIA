@@ -74,7 +74,7 @@ The hyperparameter \gamma should be tuned with dataset and noise rate. Average t
 
 We also provide the test accuracy vs. number of epochs below:
 
-![image-20210602182401477](./Figure/Acc vs Epoch.png)
+![image-20210602182401477](./Figure/AccvsEpoch.png)
 
 ## Results
 
